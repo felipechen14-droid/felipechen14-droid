@@ -1,8 +1,26 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=200&section=header&text=Felipe%20Chen%20Fan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<!-- ========================= -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Estudante+de+Tecnologia;Aprendendo+Programação;Criando+Projetos;Sempre+Evoluindo" />
+<!-- HEADER -->
+
+<!-- ========================= -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=Felipe%20Chen%20Fan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Technology%20Student%20%7C%20Developer%20in%20Progress&descAlignY=58&descSize=20&color=0:050505,45:0D1117,75:161B22,100:00C6FF"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2800&pause=900&color=00C6FF&center=true&vCenter=true&width=800&lines=Hello%2C+I'm+Felipe+Chen+Fan+%F0%9F%91%8B;Technology+Student+%F0%9F%92%BB;Java+%7C+Python+%7C+JavaScript+%7C+C%2B%2B;Building+projects+and+learning+every+day+%F0%9F%9A%80;Welcome+to+my+GitHub!+%E2%9C%A8"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Felipe250273&label=PROFILE%20VIEWS&color=00C6FF&style=for-the-badge"/>
+
+<br><br>
+
+<a href="https://github.com/Felipe250273"> <img src="https://img.shields.io/badge/GitHub-Felipe250273-181717?style=for-the-badge&logo=github"/> </a>
+
+<a href="https://www.instagram.com/felipechenfan/"> <img src="https://img.shields.io/badge/Instagram-felipechenfan-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
 
 </div>
 
