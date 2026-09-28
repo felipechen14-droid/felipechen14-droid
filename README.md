@@ -83,13 +83,13 @@ Projeto desenvolvido em **Java** para praticar lógica de programação, listas 
 
 <p align="center">
 
-<a href="https://github.com/Felipe250273">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<p align="center">
+  <img height="170"
+       src="https://github-readme-stats.vercel.app/api?username=Felipe250273&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<a href="https://www.instagram.com/felipechenfan/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+  <img height="170"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe250273&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 </p>
 
