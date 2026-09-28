@@ -12,15 +12,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2800&pause=900&color=00C6FF&center=true&vCenter=true&width=800&lines=Hello%2C+I'm+Felipe+Chen+Fan+%F0%9F%91%8B;Technology+Student+%F0%9F%92%BB;Java+%7C+Python+%7C+JavaScript+%7C+C%2B%2B;Building+projects+and+learning+every+day+%F0%9F%9A%80;Welcome+to+my+GitHub!+%E2%9C%A8"/>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Felipe250273&label=PROFILE%20VIEWS&color=00C6FF&style=for-the-badge"/>
-
-<br><br>
-
-<a href="https://github.com/Felipe250273"> <img src="https://img.shields.io/badge/GitHub-Felipe250273-181717?style=for-the-badge&logo=github"/> </a>
-
-<a href="https://www.instagram.com/felipechenfan/"> <img src="https://img.shields.io/badge/Instagram-felipechenfan-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
+<br>
 
 </div>
 
