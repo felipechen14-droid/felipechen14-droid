@@ -70,11 +70,11 @@ Projeto desenvolvido em **Java** para praticar lógica de programação, listas 
 ## 📊 GitHub
 
 <p align="center">
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api?username=Felipe250273&show_icons=true&theme=tokyonight&hide_border=true" />
 
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe250273&layout=compact&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/Felipe250273">
+  <img src="https://img.shields.io/badge/GitHub-Felipe250273-181717?style=for-the-badge&logo=github" />
+</a>
+
 </p>
 
 ---
@@ -83,13 +83,13 @@ Projeto desenvolvido em **Java** para praticar lógica de programação, listas 
 
 <p align="center">
 
-<p align="center">
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api?username=Felipe250273&show_icons=true&theme=tokyonight&hide_border=true" />
-
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe250273&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<a href="https://github.com/Felipe250273">
+  GitHub
+</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://www.instagram.com/felipechenfan/">
+  Instagram
+</a>
 
 </p>
 
